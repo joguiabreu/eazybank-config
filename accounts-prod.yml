@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Production APIs "
+  contactDetails:
+    name: "Larry Doe - Tech Lead"
+    email: "larry@eazybank.com"
+  onCallSupport:
+    - (555) 553-5678
+    - (555) 553-7890
